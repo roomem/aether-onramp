@@ -4,7 +4,7 @@
 	branch = master
 [submodule "deps/k8s"]
 	path = deps/k8s
-	url = https://github.com/opennetworkinglab/aether-k8s.git
+	url = https://github.com/roomem/aether-k8s.git
 	branch = master
 [submodule "deps/5gc"]
 	path = deps/5gc
